@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "seasonal-admin/precache-manifest.9626efa8a04941529b84df568665e7b1.js"
+  "/seasonal-admin/precache-manifest.2c8ee172cc0b51ed5dd50197859c16dd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("seasonal-admin/index.html", {
+workbox.routing.registerNavigationRoute("/seasonal-admin/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
