@@ -1,11 +1,11 @@
 {
-  "main.js": "/seasonal-admin/static/js/main.b8a29eb7.chunk.js",
-  "main.js.map": "/seasonal-admin/static/js/main.b8a29eb7.chunk.js.map",
-  "runtime~main.js": "/seasonal-admin/static/js/runtime~main.0b1558d5.js",
-  "runtime~main.js.map": "/seasonal-admin/static/js/runtime~main.0b1558d5.js.map",
-  "static/js/2.784f1da9.chunk.js": "/seasonal-admin/static/js/2.784f1da9.chunk.js",
-  "static/js/2.784f1da9.chunk.js.map": "/seasonal-admin/static/js/2.784f1da9.chunk.js.map",
-  "index.html": "/seasonal-admin/index.html",
-  "precache-manifest.2c8ee172cc0b51ed5dd50197859c16dd.js": "/seasonal-admin/precache-manifest.2c8ee172cc0b51ed5dd50197859c16dd.js",
-  "service-worker.js": "/seasonal-admin/service-worker.js"
+  "main.js": "./static/js/main.bb5efc75.chunk.js",
+  "main.js.map": "./static/js/main.bb5efc75.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.8c97409f.js",
+  "runtime~main.js.map": "./static/js/runtime~main.8c97409f.js.map",
+  "static/js/2.784f1da9.chunk.js": "./static/js/2.784f1da9.chunk.js",
+  "static/js/2.784f1da9.chunk.js.map": "./static/js/2.784f1da9.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.37681726fd7d3e875eb337e74a090283.js": "./precache-manifest.37681726fd7d3e875eb337e74a090283.js",
+  "service-worker.js": "./service-worker.js"
 }
