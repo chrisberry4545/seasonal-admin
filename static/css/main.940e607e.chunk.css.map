@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/circleci/project/packages/frontend-admin/src/components-main/DataForm/DataForm.scss"],"names":[],"mappings":"AAAA,oBACE,aAAc","file":"main.940e607e.chunk.css","sourcesContent":[".c-data-form__field {\n  display: block;\n}\n"]}
